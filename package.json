@@ -2,6 +2,7 @@
   "name": "emissions-tracker",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ruchi-kaushik.github.io/emissions-tracker",
   "type": "module",
   "scripts": {
     "dev": "vite",
